@@ -1,2 +1,0 @@
-# Vladoss
-my first repository
